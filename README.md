@@ -19,4 +19,4 @@
 <h1>Danh sách sản phẩm đã thêm vào giỏ hàng</h1>
 <img src="/template/Screenshot (5).png" width="1000px">
 <p>Khi đã có sản phẩm trong giỏ hàng chỉ cần điền thông tin rồi nhấn đặt hàng sẽ hiển thị thông tin đặt hàng thông qua email</p>
-<img src="/template/479e8916b03c1c62452d.jpg" style="object-fit: cover;">
+<img src="/template/479e8916b03c1c62452d.jpg" style="transform: scale(0.8);">
